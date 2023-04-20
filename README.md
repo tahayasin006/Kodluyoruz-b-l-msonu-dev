@@ -1,1 +1,1 @@
-# Kodluyoruz-b-l-msonu-dev
+# Kodluyoruz-bolum-sonu-odev
